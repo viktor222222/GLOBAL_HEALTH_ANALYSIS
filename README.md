@@ -1,4 +1,4 @@
-# 🌍 Life Expectancy Data Analysis and Prediction
+# 🌍 Global health Data Analysis and Prediction
 
 This project explores and analyzes the **Life Expectancy Dataset** to understand the key factors influencing life expectancy across the globe. It involves data preprocessing, exploratory data analysis (EDA), correlation studies, visualization, and machine learning modeling for regression and classification tasks.
 
